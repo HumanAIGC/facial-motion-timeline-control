@@ -11,6 +11,9 @@ Liefeng Bo
 
 Tsinghua University, Tongyi Lab Alibaba Group
 
+[paper](https://arxiv.org/abs/2505.20861) |
+[project page](https://humanaigc.github.io/facial-motion-timeline-control/)
+
 **Accepted by CVPR 2025**
 
 
